@@ -1,2 +1,2 @@
-# growthdaily
-medium posts backups
+# Growth daily
+Medium posts backups
